@@ -36,3 +36,6 @@ Each row indicates a fragment. The first column indicates the ID of a fragment w
 This dataset is provided for academic, non-commercial use only. If you find this dataset useful in your work, please cite the following publication where the dataset is introduced:
 
 *D. Galanopoulos, V. Mezaris, “Temporal Lecture Video Fragmentation using Word Embeddings”, Proc. 25th Int. Conf. on Multimedia Modeling (MMM2019), Thessaloniki, Greece, Jan. 2019.*
+
+## Acknowledgements
+This work was supported by the EU’s Horizon 2020 research and innovation programme under grant agreement No 693092 MOVING.
