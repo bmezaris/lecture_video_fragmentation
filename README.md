@@ -38,4 +38,4 @@ This dataset is provided for academic, non-commercial use only. If you find this
 *D. Galanopoulos, V. Mezaris, “Temporal Lecture Video Fragmentation using Word Embeddings”, Proc. 25th Int. Conf. on Multimedia Modeling (MMM2019), Thessaloniki, Greece, Jan. 2019.*
 
 ## Acknowledgements
-This work was supported by the EU’s Horizon 2020 research and innovation programme under grant agreement No 693092 MOVING.
+This work was supported by the EU’s Horizon 2020 research and innovation programme under grant agreement No 693092 MOVING. We are grateful to JSI/VideoLectures.NET for providing the lectures’ transcripts.
